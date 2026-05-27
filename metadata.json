@@ -1,0 +1,6 @@
+{
+  "name": "Vedprakash Portfolio",
+  "description": "Modern personal portfolio website for Vedprakash Kushwaha, MERN Stack Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
